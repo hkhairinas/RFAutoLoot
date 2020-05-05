@@ -1,0 +1,17 @@
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\RFAutoLoot.exe
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\RFAutoLoot.pdb
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.csprojAssemblyReference.cache
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.AutoLoot.resources
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.Properties.Resources.resources
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.csproj.GenerateResource.cache
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.exe
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.pdb
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\WindowsInput.dll
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\WindowsInput.xml
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.csproj.CopyComplete
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\RFAutoLoot.exe.config
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.exe.manifest
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\RFAutoLoot.exe.manifest
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\RFAutoLoot.application
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\obj\Debug\RFAutoLoot.application
+C:\Users\hutom\source\repos\RFAutoLoot\RFAutoLoot\bin\Debug\Gma.System.MouseKeyHook.dll
