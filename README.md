@@ -1,6 +1,8 @@
 # RFAutoLoot
 Autoloot for Rising Force Online
 
+<img alt="GitHub" src="https://img.shields.io/github/license/hkhairinas/RFAutoLoot?color=green">
+
 how to use it?
 https://youtu.be/9cQtgRJS-rw
 
