@@ -1,5 +1,5 @@
 # RFAutoLoot
-Autoloot for Rising Force Online
+Tools Autoloot for Rising Force Online Game
 
 <img alt="GitHub" src="https://img.shields.io/github/license/hkhairinas/RFAutoLoot?color=green">
 
