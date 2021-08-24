@@ -1,5 +1,7 @@
 # RFAutoLoot
 Tools Autoloot for Rising Force Online Game
+---
+Build on Csharp.
 
 <img alt="GitHub" src="https://img.shields.io/github/license/hkhairinas/RFAutoLoot?color=green">
 
